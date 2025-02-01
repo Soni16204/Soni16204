@@ -1,4 +1,4 @@
-## Hi there 👋<h1 align="center">Hi 👋, I'm Soni Buddala</h1>
+<h1 align="center">Hi 👋, I'm Soni Buddala</h1>
 <h3 align="center">A passionate Data Analyst Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soni16204&label=Profile%20views&color=0e75b6&style=flat" alt="soni16204" /> </p>
