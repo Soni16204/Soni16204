@@ -1,3 +1,4 @@
+![logo](https://github.com/Soni16204/Soni16204/blob/main/github%20bannner.png)
 <h1 align="center">Hi 👋, I'm Soni Buddala</h1>
 <h3 align="center">A passionate Data Analyst Developer from India</h3>
 
